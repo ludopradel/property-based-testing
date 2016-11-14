@@ -4,8 +4,6 @@
 
 #Documents
 
- - Romeu Moura video  : http://videos.ncrafts.io/video/170129851
-
  - http://fsharpforfunandprofit.com/posts/property-based-testing/
  - http://fsharpforfunandprofit.com/posts/property-based-testing-2/
  
@@ -13,10 +11,13 @@
 
  - http://hypothesis.works/articles/incremental-property-based-testing/
  
+ - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.93.5559&rep=rep1&type=pdf
+ 
  #Videos : 
  - http://fsharpforfunandprofit.com/pbt/
  -  john hughes talk : https://www.youtube.com/watch?v=zi0rHwfiX1Q
  -  Article from Nat Pryce : http://natpryce.com/articles/000807.html
+ - Romeu Moura video  : http://videos.ncrafts.io/video/170129851
 
 ##Library
 
