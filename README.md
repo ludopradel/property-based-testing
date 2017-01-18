@@ -13,6 +13,8 @@
  
  - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.93.5559&rep=rep1&type=pdf
  
+ - https://truizlop.github.io/development/property-based-testing-introduction/
+ 
  #Videos : 
  - http://fsharpforfunandprofit.com/pbt/
  -  john hughes talk : https://www.youtube.com/watch?v=zi0rHwfiX1Q
